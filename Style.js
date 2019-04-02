@@ -13,7 +13,6 @@ export default StyleSheet.create({
     inputText: {
         flex: 1,
         fontSize: 18,
-        height: 40,
         borderWidth: 1,
         borderColor: 'gray',
         borderRadius: 4,
